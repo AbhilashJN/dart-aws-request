@@ -1,0 +1,15 @@
+name: dart_aws_request
+description: A client which helps to make signed HTTP requests to AWS APIs.
+version: 1.0.0
+homepage: https://github.com/AbhilashJN/dart-aws-request
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  crypto : ^2.1.5
+
+
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.4
